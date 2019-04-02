@@ -1,5 +1,11 @@
 #include<stdio.h>
 
+void sort()
+{
+
+  //dummy sort funtion
+}
+
 void main(){
     int students[10],gifts[10],i;
     for(i=0;i<10;i++)
